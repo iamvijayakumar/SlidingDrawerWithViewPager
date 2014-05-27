@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabWithSlidingDrawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+     <string name="open">Open</string>
+      <string name="close">Close</string>
+ <string-array name="news_Sites">
+        <item>தட்ஸ்தமிழ் </item>
+        <item>தினகரன் </item>
+        <item>தி இந்து </item>
+        <item>மாலை மலர் </item>
+          <item>Rate This App </item>
+    </string-array>
+
+    <array name="icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+    </array>
+    
+</resources>
